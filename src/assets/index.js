@@ -7,7 +7,7 @@ import hooks from "./hooks.png";
 import ochi from "./ochi.png";
 import fizzy from "./Fizzy.png";
 import weather from "./weather.png";
-import CV from "./HimanshuKumar(CV).pdf";
+import CV from "./Himanshu(CV).pdf";
 
 export {  close, logo, menu, boy2,reliver ,hooks, ochi ,fizzy, weather,CV};
 
