@@ -6,6 +6,7 @@ import { about } from "../data";
 import { SectionWrapper } from "../hoc";
 import { styles } from "../styles";
 import { fadeIn, textVariant } from "../utils/motion";
+import CV from "../assets/HimanshuKumar(CV).pdf"
 
 const AboutCard = ({
     index,
@@ -42,9 +43,14 @@ const AboutCard = ({
             className="mt-4 text-secondary text-md sm:text-xs md:text-sm lg:text-md xl:text-lg 2xl:text-3xl"
             dangerouslySetInnerHTML={{ __html: description }}  // This ensures that HTML is rendered correctly.
           />
+          {/* Download CV Button */}
+          <a href={CV} download="HimanshuKumar_CV.pdf" className="mt-10 sm:mt-12 md:mt-20 px-4 sm:px-6 md:px-8 py-2 sm:py-3 md:py-4 bg-green-200 text-[#011825] rounded-md text-md sm:text-xs md:text-sm lg:text-md xl:text-lg 2xl:text-3xl w-[50vw] sm:w-[30vw] md:w-[20vw] lg:w-[15vw] font-sharpie">
+            <h3 className="font-sharpie">Download CV</h3>
+          </a>
+
         </div>
   
-        <div className='relative w-full md:w-3/6'>
+        <div className='relative w-full md:w-3/6 mt-20'>
           <img
             src={image}
             alt='about_image'
