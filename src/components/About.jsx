@@ -35,7 +35,7 @@ const AboutCard = ({
         variants={fadeIn("up", "spring", 0, 0.75)}
         className={`w-full mt-[-2px] flex flex-col md:flex-row ${isEven ? "md:flex-row" : "md:flex-row-reverse"} gap-5`}
       >
-        <div className={`w-full md:w-3/5 px-6 md:p-16 flex flex-col justify-center ${isEven ? "text-left md:text-left" : "text-left md:text-right"}`}>
+        <div className={`w-full md:w-3/5 px-6  md:p-16 flex flex-col justify-center ${isEven ? "text-left md:text-left" : "text-left md:text-right"}`}>
           {/* <h3 className='text-white font-medium text-md sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl lg:text-5xl leading-tight'>{name}</h3> */}
   
           {/* Fix: Use description directly */}
@@ -54,7 +54,7 @@ const AboutCard = ({
           <img
             src={image}
             alt='about_image'
-            className='w-full h-auto object-cover md:rounded-3xl'
+            className='w-full h-auto object-cover md:rounded-md'
           />
         </div>
       </motion.div>

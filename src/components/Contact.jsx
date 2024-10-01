@@ -106,12 +106,12 @@ const Contact = () => {
         }}
         className="text-center py-6 mt-12"
       >
-        <h1
+        {/* <h1
           className="text-xl md:text-2xl text-gray-400 font-General_Sans"
         >
           Ph no:{" "}
           <span className="text-white font-semibold">+91 8506087559</span>
-        </h1>
+        </h1> */}
       </motion.div>
 
       <footer className="mt-12 w-full flex justify-between items-center px-8">

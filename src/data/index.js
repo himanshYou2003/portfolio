@@ -75,23 +75,23 @@ const experiences = [
 
 const project = [
   {
-    name: "Reliver: Enhancing Psychology Interns' Experience with Patient Access",
+    name: "Reliver: psychiatrist",
     description:
       "'Reliver' is a startup website designed for psychology master's students. It streamlines internship placements and provides direct access to patients, enhancing their professional experience and fostering valuable connections in the field.",
     image: reliver,
     link: "https://reliver.in", // Add the link here
   },
   {
-    name: "Hooks: Streamlined E-Commerce Experience with Minimalist Design",
+    name: "Fizzzi: 3D Website",
     description:
-      "A minimalist e-commerce shopping website featuring a sleek, user-friendly frontend design. It offers an intuitive shopping experience with a clean aesthetic, ensuring effortless navigation and a streamlined purchasing process.",
+      "Developed Fizzzi, a 3D interactive website using Three.js, GSAP, Next.js, and TypeScript for immersive experiences.",
     image: fizzy,
     link: "https://fizzy-ivory.vercel.app/", // Add the link here
   },
   {
-    name: "Ochi: A Modern Design Website with Contemporary Aesthetics",
+    name: "Weather App: UI & Sound",
     description:
-      "Ochi is a modern design website featuring contemporary aesthetics and a sophisticated layout. It combines cutting-edge design with functionality, offering an engaging and visually appealing user experience.",
+      "A weather app featuring an impressive user interface and sound functionality for an engaging user experience.",
     image: weather,
     link: "https://new-weather-ashen.vercel.app/", // Add the link here
   },
