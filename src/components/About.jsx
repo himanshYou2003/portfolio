@@ -6,7 +6,7 @@ import { about } from "../data";
 import { SectionWrapper } from "../hoc";
 import { styles } from "../styles";
 import { fadeIn, textVariant } from "../utils/motion";
-import CV from "../assets/Himanshu(CV).pdf"
+import CV from "../assets/CV(himanshu).pdf"
 
 const AboutCard = ({
     index,
