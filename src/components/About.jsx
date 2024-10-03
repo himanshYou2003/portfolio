@@ -44,9 +44,9 @@ const AboutCard = ({
             dangerouslySetInnerHTML={{ __html: description }}  // This ensures that HTML is rendered correctly.
           />
           {/* Download CV Button */}
-          <a href={CV} download="HimanshuKumar_CV.pdf" className="mt-10 sm:mt-12 md:mt-20 px-4 sm:px-6 md:px-8 py-2 sm:py-3 md:py-4 bg-green-200 text-[#011825] rounded-md text-md sm:text-xs md:text-sm lg:text-md xl:text-lg 2xl:text-3xl w-[50vw] sm:w-[30vw] md:w-[20vw] lg:w-[15vw] font-sharpie">
+          {/* <a href={CV} download="HimanshuKumar_CV.pdf" className="mt-10 sm:mt-12 md:mt-20 px-4 sm:px-6 md:px-8 py-2 sm:py-3 md:py-4 bg-green-200 text-[#011825] rounded-md text-md sm:text-xs md:text-sm lg:text-md xl:text-lg 2xl:text-3xl w-[50vw] sm:w-[30vw] md:w-[20vw] lg:w-[15vw] font-sharpie">
             <h3 className="font-sharpie">Download CV</h3>
-          </a>
+          </a> */}
 
         </div>
   
