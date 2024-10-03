@@ -80,7 +80,7 @@ const Navbar = () => {
           />
         </Link>
 
-        <ul className='list-none hidden sm:flex flex-col gap-5'>
+        {/* <ul className='list-none hidden sm:flex flex-col gap-5'>
           {navLinks.map((nav) => (
             <li
               key={nav.id}
@@ -95,7 +95,7 @@ const Navbar = () => {
               <a href={`#${nav.id}`}>{nav.title}</a>
             </li>
           ))}
-        </ul>
+        </ul> */}
 
         <div className='sm:hidden flex flex-1 justify-end items-center'>
           <div style={{ pointerEvents: 'auto' }}>
