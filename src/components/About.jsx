@@ -50,7 +50,7 @@ const AboutCard = ({
 
         </div>
   
-        <div className='relative w-full md:w-3/6 mt-20'>
+        <div className='relative w-full md:w-2/6 mt-20'>
           <img
             src={image}
             alt='about_image'
