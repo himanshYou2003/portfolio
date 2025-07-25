@@ -78,7 +78,7 @@ const project = [
   {
     name: "AI-Powered Insect Detection for Healthier Crops",
     description:
-      "built insect detector for farmer to prevent crops",
+      "Built insect detector for farmer to prevent crops",
     image: insect,
     link: "https://insect-detector.vercel.app/", // Add the link here
   },
