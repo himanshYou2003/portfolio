@@ -1,6 +1,7 @@
 import {
   boy2,
   reliver,
+  insect,
   hooks,
   ochi,
   fizzy,
@@ -75,11 +76,11 @@ const experiences = [
 
 const project = [
   {
-    name: "Reliver: psychiatrist",
+    name: "AI-Powered Insect Detection for Healthier Crops",
     description:
-      "'Reliver' is a startup website designed for psychology master's students. It streamlines internship placements and provides direct access to patients, enhancing their professional experience and fostering valuable connections in the field.",
-    image: reliver,
-    link: "https://reliver.in", // Add the link here
+      "built insect detector for farmer to prevent crops",
+    image: insect,
+    link: "https://insect-detector.vercel.app/", // Add the link here
   },
   {
     name: "Fizzzi: 3D Website",

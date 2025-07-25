@@ -8,6 +8,8 @@ import ochi from "./ochi.png";
 import fizzy from "./Fizzy.png";
 import weather from "./weather.png";
 import CV from "./CV(HIMASNHU).pdf";
+import TextBg from "./TextBg.png"
+import insect from "./insect.png"
 
-export {  close, logo, menu, boy2,reliver ,hooks, ochi ,fizzy, weather,CV};
+export {  close, logo, menu, boy2,reliver ,hooks, ochi ,fizzy, weather,CV,TextBg,insect};
 
