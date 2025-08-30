@@ -37,7 +37,7 @@ const experiences = [
     company_name: "Devlopment",
     details: [
       // "Built a subscriber base of over <span style='color: white;'>500,000 subscribers</span> by creating video content to help programmers.",
-      "C, C++, Dart, Java, <span style='color: white;'>JavaScript</span>, TypeScript, HTML5, CSS3, Sass, Tailwind CSS, React, Next.js, Express, Node.js,<span style='color: white;'> Android</span?, Flutter, React Native, Figma, Framer, MongoDB, MySQL, Firebase, Scikit-learn,<span style='color: white;'> TensorFlow</span>, Git, Linux, Blender, Babel",
+      " Java, <span style='color: white;'>JavaScript</span>, TypeScript, HTML5, CSS3, Sass, Tailwind CSS, React, Next.js, Express, Node.js,<span style='color: white;'> Android</span?, React Native, Figma, Framer, MongoDB, MySQL, Firebase, Scikit-learn,<span style='color: white;'> TensorFlow</span>, Git, Linux, Blender, Babel",
       // "Crafted visually appealling programming videos that have garnered over <span style='color: white;'>30,000,000 views</span>.",
       // "Produced high-quality educational and entertaining videos for clients including <span style='color: white;'>Intel, JetBrains, and MicroCenter</span>.",
     ],
@@ -47,7 +47,7 @@ const experiences = [
     company_name: "Shipmymeds",
     // date: "2019 - 2023",
     details: [
-      "I served as a developer at <span style='color: white;'>ShipMyMeds</span>, a startup company operating under the brand <span style='color: white;'> Reliver P.V.T L.T.D</span>, for a duration of 2 years. During my tenure, I contributed to various development projects and played a key role in advancing the company’s technological initiatives.",
+      "I served as a developer at <span style='color: white;'>ShipMyMeds Pvt Ltd</span>, a startup company, for over one year. During this time, I worked on a single product from scratch — contributing to both the frontend and backend. I was involved in designing the user interface, developing APIs, setting up the database, and deploying the application, which gave me hands-on experience with <span style='color: white;'>full-stack development</span> in a real-world environment.",
       // "<span style='color: white;'>Designed and developed innovative</span> AI applications and interactive websites.",
       // "<span style='color: white;'>Managed full project lifecycle</span> from concept to deployment in successful and timely project completions.",
     ],
@@ -57,10 +57,11 @@ const experiences = [
     company_name: "Winner",
     // date: "2018 - 2019",
     details: [
-      "One hackathon involved a <span? style='color: white;'>3-day full-stack web development</span? challenge where participants were required to build a complete web application. I achieved first place with a project that effectively integrated both front-end and back-end technologies.",
-      "Another hackathon, named <span style='color: white;'>Byte Tourney</span>, emphasized the combination of unique design with development. For this event, I utilized advanced technologies such as Three.js and GSAP to create a project that featured innovative design and interactive animations.",
-      // "<span style='color: white;'>Collaborated with a team</span> to design and implement front-end interfaces.",
-    ],
+  "One hackathon was a <span style='color: white;'>3-day full-stack web development</span> challenge where I built a complete web application from scratch. The project combined both front-end and back-end features, and I secured first place for delivering a functional and well-structured solution.",
+  "Another hackathon, named <span style='color: white;'>Byte Tourney</span>, focused on creative web design along with development. I used technologies like <span style='color: white;'>Three.js</span> and <span style='color: white;'>GSAP</span> to add interactive 3D elements and animations, which helped me win the Best Web Design award.",
+  "In <span style='color: white;'>Protothon 2024</span>, I developed <span style='color: white;'>Sakhi-Alert</span> – a real-time women’s safety app with features like live location sharing, instant alerts to trusted contacts, and community support. The project won 1st place for addressing a real-world problem effectively."
+]
+,
   },
   {
     title: "member",
