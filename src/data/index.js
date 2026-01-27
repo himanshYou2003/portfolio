@@ -1,7 +1,7 @@
 import {
   boy2,
   reliver,
-  insect,
+  Bling,
   hooks,
   ochi,
   fizzy,
@@ -44,10 +44,10 @@ const experiences = [
   },
   {
     title: "Experience",
-    company_name: "Shipmymeds",
+    company_name: "PCS Global Pvt. Ltd.",
     // date: "2019 - 2023",
     details: [
-      "I served as a developer at <span style='color: white;'>ShipMyMeds Pvt Ltd</span>, a startup company, for over one year. During this time, I worked on a single product from scratch — contributing to both the frontend and backend. I was involved in designing the user interface, developing APIs, setting up the database, and deploying the application, which gave me hands-on experience with <span style='color: white;'>full-stack development</span> in a real-world environment.",
+      "I served as a developer at <span style='color: white;'>PCS Global Pvt. Ltd.</span>, where I worked as a Software Engineering Trainee from January 2025 to December 2025 in a remote setup. During this period, I contributed to multiple real-world projects, gaining hands-on experience in full-stack web development. My responsibilities included developing scalable and responsive web applications using React.js for the frontend and Node.js with Express.js for backend services. I actively designed and implemented RESTful APIs, integrated MongoDB databases, and ensured smooth data flow between client and server.",
       // "<span style='color: white;'>Designed and developed innovative</span> AI applications and interactive websites.",
       // "<span style='color: white;'>Managed full project lifecycle</span> from concept to deployment in successful and timely project completions.",
     ],
@@ -77,11 +77,11 @@ const experiences = [
 
 const project = [
   {
-    name: "AI-Powered Insect Detection for Healthier Crops",
+    name: "The Bling Bangles",
     description:
-      "Built an insect detection system to help farmers protect their crops.",
-    image: insect,
-    link: "https://insect-detector.vercel.app/", // Add the link here
+      "Built an elegant static showcase for handcrafted bangles, blending traditional artistry with modern luxury aesthetics..",
+    image: Bling,
+    link: "https://the-bling-bangles.vercel.app/", // Add the link here
   },
   {
     name: "Fizzzi: 3D Website",

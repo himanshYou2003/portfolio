@@ -9,7 +9,7 @@ import fizzy from "./Fizzy.png";
 import weather from "./weather.png";
 import CV from "./CV(HIMASNHU).pdf";
 import TextBg from "./TextBg.png"
-import insect from "./insect.png"
+import Bling from "./Bling.png"
 
-export {  close, logo, menu, boy2,reliver ,hooks, ochi ,fizzy, weather,CV,TextBg,insect};
+export {  close, logo, menu, boy2,reliver ,hooks, ochi ,fizzy, weather,CV,TextBg,Bling};
 
